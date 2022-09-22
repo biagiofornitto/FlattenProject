@@ -13,6 +13,6 @@ flattenArray([[1,2,[3]],4]) // [1, 2, 3 , 4]
 
 Tests are realized with [Mocha](https://mochajs.org/) and [Chai](https://mochajs.org/).
 
-Open index.html in your browser.
-
+1) Download or checkout the project
+2) Open index.html in your browser
 
